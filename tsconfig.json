@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+//         "baseUrl": "/",
+//         "outDir": "dist",
+//         "target": "es6",
+//         "module": "NodeNext",
+//         "moduleResolution": "NodeNext",
+        "jsx": "react",
+//         "allowImportingTsExtensions": true
+    },
+//     "files": ["src/index.tsx"]
+}
