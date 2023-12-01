@@ -13,6 +13,8 @@ class User implements IDupable {
     }
 }
 
+
+
 for (let a: IDupable of []) {
     a.dupa();
 }
